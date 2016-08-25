@@ -16,7 +16,7 @@ You will be able to track this activity through the AFEL User Dashboard (http://
 
 It will also update three API endpoint from which data can be obtained. To use them, apply for example:
 
-curl -u <your-api-key> http://data.afel-platform.eu/api/entity/day/today 
+curl -u [your-api-key:] http://data.afel-platform.eu/api/entity/day/today 
 
 to get activities for the current day. 
 
