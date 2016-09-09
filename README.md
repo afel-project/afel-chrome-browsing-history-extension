@@ -21,10 +21,11 @@ As soon as the extension is enabled, a new tab should appear in Chrome showing a
 
 This chrome extension represents a typical form of user-centric data extractor for the AFEL Data Platform. As such, it is worth detailing the workflow through which this interaction happens. This workflow is described in the diagram below.
 
-[!AFEL Chrome Browsing History Extension workflow](workflow.png "AFEL Chrome Browsing History Extension")
+![AFEL Chrome Browsing History Extension workflow](workflow.png "AFEL Chrome Browsing History Extension")
 
-where...
+where the Extractor application here is the Chorme extension and the login page is achieved through a local tab.
 
+The API to provide dataset ID and user key in the platform is part of the [Data Catalogue](https://github.com/afel-project/datahub-catalogue), through the [Data Catalogue Process Plugin](https://github.com/afel-project/data-catalogue-process-wordpress). The actual use data (in this case, browsing activity data), is transferred to the AFEL Data Platfrom through the [Entity Centric API](https://github.com/afel-project/entity-centric-api).
 
 ## Getting your own data
 In addition to showing activity through the AFEL user dashboard, the AFEL Chrome Browsing History Extension will also update three API endpoints from which data can be obtained using the users unique API key. To use them, apply for example:
