@@ -1,7 +1,7 @@
 # AFEL Chrome Browsing History Extension
 Contributor: Mathieu d'Aquin (@mdaquin)
 
-The AFEL Chrome Browsing History Extension is one of the Browsing History Extractors developped in the [AFEL Project](http://afel-project.eu). It is a chrome browser extension running in the background while you use the Chrome browser in the Web, and send information about your browsing to the (AFEL Data Platform)[http://data.afel-project.eu). It will require login onto the AFEL Data Platform, either with an existing account or through registration.
+The AFEL Chrome Browsing History Extension is one of the Browsing History Extractors developped in the [AFEL Project](http://afel-project.eu). It is a chrome browser extension running in the background while you use the Chrome browser in the Web, and send information about your browsing to the [AFEL Data Platform](http://data.afel-project.eu). It will require login onto the AFEL Data Platform, either with an existing account or through registration.
 
 
 ## Installation 
@@ -11,10 +11,10 @@ The AFEL Chrome Browsing History Extension is one of the Browsing History Extrac
 3. At the top of the page, click on "Developper mode" if not already enabled. 
 4. Use "Load unpacked extension" to select the directory where the extension has been downloaded.
 
-Please make sure to read and accept the (Terms and Conditions)[http://data.afel-project.eu/catalogue/index.php/terms-browsing/] before downloading and activating this browser extension.
+Please make sure to read and accept the [Terms and Conditions](http://data.afel-project.eu/catalogue/index.php/terms-browsing/) before downloading and activating this browser extension.
 
 ## Use
-As soon as the extension is enabled, a new tab should appear in Chrome showing a login page to the AFEL data platform. Please (register)[http://data.afel-project.eu/catalogue/wp-login.php?action=register] if you don't already have an account. Once logged in, the extension will have obtained all the details needed to updload data about browsing activity on the AFEL Data Platform. A small icon will have also appeared on the right hand side of the browser's address bar, showing that the extension is active. Clicking on this icon will give you a link to the (AFEL User Dashboard)[http://data.afel-project.eu/catalogue/index.php/user-dashboard/] where you can monitor your own activity from this and other AFEL extractors.
+As soon as the extension is enabled, a new tab should appear in Chrome showing a login page to the AFEL data platform. Please (register)[http://data.afel-project.eu/catalogue/wp-login.php?action=register] if you don't already have an account. Once logged in, the extension will have obtained all the details needed to updload data about browsing activity on the AFEL Data Platform. A small icon will have also appeared on the right hand side of the browser's address bar, showing that the extension is active. Clicking on this icon will give you a link to the [AFEL User Dashboard](http://data.afel-project.eu/catalogue/index.php/user-dashboard/) where you can monitor your own activity from this and other AFEL extractors.
 
 
 ## Workflow
@@ -45,4 +45,4 @@ Note that these endpoints might also include data obtained from other extractors
 
 
 ## Licence 
-The AFEL Chrome Browsing History Extension us distributed under the (Apache Licence V2)[https://www.apache.org/licenses/LICENSE-2.0]. Please attribute *(Mathieu d'Aquin([http://mdaquin.net) from (The Open University)[http://www.open.ac.uk) through the (AFEL Project)[http://afel-project.eu]* when reusing and redistributing this code.
+The AFEL Chrome Browsing History Extension us distributed under the [Apache Licence V2](https://www.apache.org/licenses/LICENSE-2.0). Please attribute *[Mathieu d'Aquin](http://mdaquin.net) from [The Open University](http://www.open.ac.uk] through the [AFEL Project](http://afel-project.eu)* when reusing and redistributing this code.
