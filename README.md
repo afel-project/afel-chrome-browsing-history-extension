@@ -1,5 +1,6 @@
 # AFEL Chrome Browsing History Extension
 Contributor: Mathieu d'Aquin (@mdaquin)
+___DEPRECATED___: This project is superseded by the browsing-history-webext, which extends this project to also support Firefox and Opera.
 
 The AFEL Chrome Browsing History Extension is one of the Browsing History Extractors developped in the [AFEL Project](http://afel-project.eu). It is a chrome browser extension running in the background while you use the Chrome browser in the Web, and send information about your browsing to the [AFEL Data Platform](http://data.afel-project.eu). It will require login onto the AFEL Data Platform, either with an existing account or through registration.
 
